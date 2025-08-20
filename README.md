@@ -66,3 +66,10 @@ Let's start by saying
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sedanuroz/sedanuroz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sedanuroz/sedanuroz/output/pacman-contribution-graph.svg">
 </picture>
+
+The music I listen to. At least some of it.<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sedanuroz.sedanuroz&"  />
+<div align="left">
+  <a href="https://open.spotify.com/user/kv465ttf4a0175t6ucqy1it3t">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kv465ttf4a0175t6ucqy1it3t&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
