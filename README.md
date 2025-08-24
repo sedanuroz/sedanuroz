@@ -59,8 +59,10 @@ Let's start by saying
 <div align="left">
 </div>
 <br>
-<img src="https://sedanuroz.com/img/bento.jpg"/>
-<a href="https://bento.me/sedanur" target="_blank">Bento.me</a>
+<div>
+<a href="https://bento.me/sedanur" target="_blank"><img src="https://sedanuroz.com/img/bento.jpg" height="250" width="250"/></a>
+<strong>bento.me</strong>
+</div>
 
 <br>
 <br>
