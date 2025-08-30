@@ -58,12 +58,6 @@ Let's start by saying
 
 <div align="left">
 </div>
-<br>
-<div align="center">
-<a href="https://bento.me/sedanur" target="_blank"><img src="https://sedanuroz.com/img/bento.jpg" height="250" width="250"/></a>
-  <br>
-<a href="https://bento.me/sedanur" target="_blank"><strong>bento.me</strong></a>
-</div>
 
 <br>
 <br>
