@@ -7,7 +7,7 @@
   <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="https://github.com/sedanuroz/sedanuroz/blob/main/README.tr.md">🇹🇷 Türkçe</a>
 </p>
 
-<img align="right" height="230" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
+<img align="right" height="230" hspace="20" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=435&height=60&lines=About+Me" alt="Typing SVG"/>
 
