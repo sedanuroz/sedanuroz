@@ -7,10 +7,13 @@
   <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="https://github.com/sedanuroz/sedanuroz/blob/main/README.tr.md">🇹🇷 Türkçe</a>
 </p>
 
-<img align="right" height="230" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
-<img align="right" width="24" height="230" src="img/space.svg" alt=""/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=435&height=60&lines=About+Me" alt="Typing SVG"/>
+
+
+<img align="right" height="230" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
+<img align="right" width="24" height="230" src="img/space.svg" alt=""/>
 
 <b>Hello, my name is Seda Nur Öz.</b><br><br>
 I am a Software Engineer, graduated from Adana Alparslan Türkeş Science and Technology University (2021–2026), focused on autonomous UAV systems, computer vision, embedded systems and AI-powered applications.<br><br>
