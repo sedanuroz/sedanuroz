@@ -7,21 +7,16 @@
   <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="README.tr.md">🇹🇷 Türkçe</a>
 </p>
 
-<table>
-<tr>
-<td width="62%" valign="middle">
+<img align="right" height="260" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=About+Me" alt="Typing SVG"/>
 <br>
 <b>Hello, my name is Seda Nur Öz.</b><br><br>
 I am a Software Engineer, graduated from Adana Alparslan Türkeş Science and Technology University (2021–2026), focused on autonomous UAV systems, computer vision, embedded systems and AI-powered applications.<br><br>
 As a member of the GİRİFT UAV Team, I reached the finals of both SUAS 2026 and TEKNOFEST 2026, where our team received the Most Original Software Award.<br><br>
 I keep my knowledge up to date, research new technologies and learn from experts in the field. <u>You can learn more about me by taking a quick look below.</u>
-</td>
-<td width="38%" align="center" valign="middle">
-<img height="260" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
-</td>
-</tr>
-</table>
+
+<br clear="right"/>
 
 Let's start by saying
 ``` C
@@ -104,9 +99,7 @@ Let's start by saying
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Contact" alt="Contact"/>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+<img align="right" height="200" src="img/contact.gif?v=2" alt="contact"/>
 
 <a href="https://www.linkedin.com/in/sedanuroz" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.instagram.com/sedanur_oz_/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a> 
@@ -115,12 +108,7 @@ Let's start by saying
 📌 You can follow me on Instagram and communicate with me more quickly. <br><br>
 📌 You can contact me via Gmail for support, sponsorship, advertising, collaboration or official business.
 
-</td>
-<td width="35%" align="right" valign="middle">
-<img height="200" src="img/contact.gif?v=2" alt="contact"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <div align="left">
 </div>
