@@ -104,15 +104,23 @@ Let's start by saying
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Contact" alt="Contact"/>
 
+<table>
+<tr>
+<td width="65%" valign="middle">
+
 <a href="https://www.linkedin.com/in/sedanuroz" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.instagram.com/sedanur_oz_/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a> 
-<a href="mailto:sseedanuroz@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-<br>
-📌 You can follow me on LinkedIn and review my academic career.
-<br>
-📌 You can follow me on Instagram and communicate with me more quickly. 
-<br>
+<a href="mailto:sseedanuroz@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a><br><br>
+📌 You can follow me on LinkedIn and review my academic career.<br><br>
+📌 You can follow me on Instagram and communicate with me more quickly. <br><br>
 📌 You can contact me via Gmail for support, sponsorship, advertising, collaboration or official business.
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img height="200" src="img/contact.gif" alt="contact"/>
+</td>
+</tr>
+</table>
 
 <div align="left">
 </div>
