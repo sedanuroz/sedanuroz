@@ -7,9 +7,12 @@
   <a href="https://github.com/sedanuroz">🇬🇧 English</a> &nbsp;|&nbsp; <b>🇹🇷 Türkçe</b>
 </p>
 
-<img align="right" height="230" hspace="20" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=435&height=60&lines=Hakk%C4%B1mda" alt="Typing SVG"/>
+
+<img align="right" height="230" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
+<img align="right" width="24" height="230" src="img/space.svg" alt=""/>
 
 <b>Merhaba, ben Seda Nur Öz.</b><br><br>
 Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Yazılım Mühendisliği bölümünden (2021–2026) mezun bir yazılım mühendisiyim. Otonom İHA sistemleri, görüntü işleme, gömülü sistemler ve yapay zekâ destekli uygulamalar üzerine çalışıyorum.<br><br>
