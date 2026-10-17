@@ -3,13 +3,17 @@
 </div>
 <h1 align="center">hey there 🐾</h1>
 
+<p align="center">
+  <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="README.tr.md">🇹🇷 Türkçe</a>
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=About+Me" alt="Typing SVG"/><img align="right" height="75" src="https://sedanuroz.com/img/emoji.png"/>
 
 > [!IMPORTANT]
 > Hello, my name is Seda Nur Öz.<br>
-> I am a software engineer who develops innovative, creative, and interactive projects to address problems by effectively utilising artificial intelligence technologies. 
-> Throughout my engineering career, I have prioritised keeping my knowledge up to date and adapting to changing systems. I research new technologies, continuously develop myself, and make it a principle to benefit from the experiences of experts in the field.
-> This allows me to both strengthen my knowledge base and increase my experience. <u>You can learn more about me by taking a quick look below.</u>
+> I am a Software Engineer, graduated from Adana Alparslan Türkeş Science and Technology University (2021–2026), focused on autonomous UAV systems, computer vision, embedded systems and AI-powered applications.
+> As a member of the GİRİFT UAV Team, I reached the finals of both SUAS 2026 and TEKNOFEST 2026, where our team received the Most Original Software Award.
+> I keep my knowledge up to date, research new technologies and learn from experts in the field. <u>You can learn more about me by taking a quick look below.</u>
 
 Let's start by saying
 ``` C
@@ -18,17 +22,22 @@ Let's start by saying
 
 <img src="https://sedanuroz.com/img/bannerme2.png"/>
 
-> 🛈 The skills I have acquired since taking my first step in my software engineering career and which I have continuously developed due to its dynamic nature.
+> 🛈 The skills I have acquired since my first step in software engineering, and keep developing due to its dynamic nature.
 <br>
 
 | Skills | Details | Skills | Details |
 | --- | --- | --- | --- |
-| <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25"/> | Yemek uygulaması projesinde, Flutter'ın zengin widget kütüphanesinden yararlanarak ve özel widget'lar geliştirerek modern, kullanıcı dostu bir arayüz (UI) tasarladım. | <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25"/> | Java'yı, temel algoritmalar ve veri yapıları konusundaki bilgimi derinleştirmek için bir araç olarak kullandım. Bu süreçte, öğrendiklerimi pekiştirmek amacıyla küçük konsol tabanlı projeler geliştirdim.
-| <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25"/> | Bir web uygulaması projesinde, C# dilinin nesne yönelimli (OOP) yeteneklerinden faydalanarak uygulamanın tüm iş mantığını (business logic) ve veri modellerini oluşturdum. | <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25"/> | C dilinin yapısal programlama yeteneklerini kullanarak, veri yönetimi ve dosya işlemleri (I/O) özelliklerine sahip, konsol tabanlı bir adisyon uygulaması geliştirdim.
-| <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25"/> | C++ ve Nesne Yönelimli Programlama (OOP) prensiplerini uygulayarak, temel oyun döngüsü ve kullanıcı etkileşimi mekaniklerine sahip, konsol tabanlı bir araba oyunu geliştirdim. | <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25"/> | Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-| <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25"/> | Uygulamanın arkasındaki tüm iş mantığını ve algoritmik yapıyı Dart dili ile kurdum. Asenkron operasyonları yöneterek backend servisleriyle veri iletişimini sağladım. | <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> | Kullanıcı etkileşimini artırmak ve dinamik bir deneyim sunmak için JavaScript kullandım; bu kapsamda DOM manipülasyonu ve form doğrulama gibi işlemler gerçekleştirdim.
-| <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25"/> | Web sitelerinin temel iskeletini ve anlamsal (semantic) yapısını HTML5 standartlarına uygun olarak oluşturdum. | <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25"/> | HTML ile oluşturduğum yapıları, modern CSS3 özelliklerini (Flexbox, Grid vb.) kullanarak stilize ettim ve sayfa yerleşimini (layout) tasarladım.
-| <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25"/> | Mobil uyumlu (responsive) ve modern tasarımları hızlı bir şekilde geliştirmek için Bootstrap framework'ünün grid sisteminden ve hazır bileşenlerinden (components) yararlandım. | <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25"/> | .NET platformunu, özellikle ASP.NET Core framework'ünü, dinamik web sayfaları oluşturmak, HTTP isteklerini yönetmek ve web uygulamasının genel mimarisi ile altyapısını kurmak için kullandım.
+| <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25"/> | Built a real-time object detection system for the SUAS 2026 autonomous UAV with YOLOv8 + TensorRT on NVIDIA Jetson, an automated NodeODM mapping pipeline, and FastAPI backends. | <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25"/> | Developed the C++17/MAVSDK telemetry backend and Qt 6 desktop interface of P.A.R.S., a multi-UAV ground control station validated in ArduPilot-Gazebo simulation.
+| <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25"/> | Built mobile interfaces for several projects: a nutrition chatbot with calorie tracking and barcode scanning, a campus bike-sharing admin app, and a social music discovery app. | <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25"/> | Implemented the business logic of my Flutter apps in Dart and handled asynchronous communication with backend services.
+| <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25"/> | Worked on embedded software with Arduino and STM32 during my R&D internship, and built a console-based billing app with file I/O. | <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25"/> | Built the business logic and data models of a web application using C# and object-oriented programming.
+| <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25"/> | Used ASP.NET Core to build dynamic web pages, handle HTTP requests and set up web application architecture. | <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25"/> | Used Java to deepen my knowledge of algorithms and data structures through small console projects.
+| <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> | Added interactivity, DOM manipulation and form validation to websites, including the corporate site of Miza Medikal. | <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25"/> | Built semantic, standards-compliant page structures, such as mizamedikal.com, developed from scratch.
+| <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25"/> | Styled pages and designed layouts with modern CSS3 (Flexbox, Grid). | <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25"/> | Used Bootstrap's grid system and components to build responsive designs quickly.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,arduino,qt,fastapi,postgres,docker,linux,matlab,git,github&perline=10" alt="tech stack" />
+</div>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -44,11 +53,37 @@ Let's start by saying
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 <br>
+
+## 🏆 Achievements
+- 🥇 **TEKNOFEST 2026 Swarm UAV Competition** — Finalist & **Most Original Software Award**
+- 🌍 **SUAS 2026 International UAV Competition** — Finalist
+
+## 💼 Experience
+**R&D Summer Intern** — Mahatron (Mahlo Textile Machinery), Bursa · *Jul – Aug 2025*
+- Embedded software development on Arduino and STM32 microcontrollers
+- Sensor data acquisition and hardware integration
+
+**Software Team Member** — GİRİFT UAV Team, ATÜ, Adana · *2025 – 2026*
+- Autonomous UAV software & hardware for SUAS 2026 and TEKNOFEST 2026 Swarm UAV
+- Computer vision, embedded system integration and ground control software
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| **SUAS 2026 – Autonomous UAV Mission System** | Fully autonomous UAV: YOLOv8 optimized with TensorRT for real-time detection on Jetson, a payload drop mechanism for detected targets, and an automated NodeODM pipeline producing two maps (precise + merged). | Python, YOLOv8, TensorRT, Jetson, MAVLink, NodeODM, Docker |
+| **TEKNOFEST 2026 Swarm UAV** | Arduino circuit converting S.Bus signals from an HM30 radio into a format Jetson can process and distributing them, so one controller commands three UAVs. | Arduino, S.Bus, Jetson |
+| **P.A.R.S. – Smart UAV Swarm Surveillance** | Multi-UAV ground control software with a C++17/MAVSDK telemetry backend, Qt 6 desktop UI and Flutter mobile app; validated in ArduPilot-Gazebo. | C++17, MAVSDK, Qt 6, Flutter, ArduPilot, Gazebo |
+| **ATUBIS – RFID Smart Campus Bike System** | Smart lock that opens only with registered student RFID cards; FastAPI REST API + PostgreSQL for station, route and usage data; web and Flutter admin panels. | Python, FastAPI, PostgreSQL, Flutter, RFID, IoT |
+| **Nutrition Assistant – AI Chatbot** | Turkish GPT-2 fine-tuned on 83,718 samples, integrated via FastAPI into a Flutter app with calorie tracking and barcode scanning. | Turkish GPT-2, Python, FastAPI, Flutter |
+| **MusicGraph – Social Music Discovery** | Graph-based song recommendations by modeling friendships and listening habits in Neo4j (8,200 nodes + relationships). | Neo4j, Python, FastAPI, Flutter |
+| **Miza Medikal – Corporate Website** | Corporate website built from scratch for a medical aesthetics company — [mizamedikal.com](https://mizamedikal.com) | HTML, CSS, JavaScript |
+
 <img src="https://sedanuroz.com/img/bannerme3.png"/>
 
 <a href="https://www.linkedin.com/in/sedanuroz" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.instagram.com/sedanur_oz_/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a> 
-<a href="bilgi@sedanuroz.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+<a href="mailto:sseedanuroz@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 <br>
 📌 You can follow me on LinkedIn and review my academic career.
 <br>
@@ -68,4 +103,3 @@ Let's start by saying
 </picture>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sedanuroz.sedanuroz&"  />
-
