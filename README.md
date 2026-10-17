@@ -7,7 +7,7 @@
   <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="README.tr.md">🇹🇷 Türkçe</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=About+Me" alt="Typing SVG"/><img align="right" height="200" src="img/Happy James GIF by Minions.gif" alt="panda eating bamboo"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=About+Me" alt="Typing SVG"/><img align="right" height="250" src="img/Happy James GIF by Minions.gif" alt="panda eating bamboo"/>
 
 > [!IMPORTANT]
 > Hello, my name is Seda Nur Öz.<br>
