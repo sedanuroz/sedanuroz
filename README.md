@@ -116,7 +116,7 @@ Let's start by saying
 📌 You can contact me via Gmail for support, sponsorship, advertising, collaboration or official business.
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="right" valign="middle">
 <img height="200" src="img/contact.gif" alt="contact"/>
 </td>
 </tr>
