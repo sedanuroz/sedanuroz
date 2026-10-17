@@ -7,16 +7,17 @@
   <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="README.tr.md">🇹🇷 Türkçe</a>
 </p>
 
-<img align="right" height="260" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
+<img align="right" height="230" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=About+Me" alt="Typing SVG"/>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=435&height=60&lines=About+Me" alt="Typing SVG"/>
+
 <b>Hello, my name is Seda Nur Öz.</b><br><br>
 I am a Software Engineer, graduated from Adana Alparslan Türkeş Science and Technology University (2021–2026), focused on autonomous UAV systems, computer vision, embedded systems and AI-powered applications.<br><br>
 As a member of the GİRİFT UAV Team, I reached the finals of both SUAS 2026 and TEKNOFEST 2026, where our team received the Most Original Software Award.<br><br>
 I keep my knowledge up to date, research new technologies and learn from experts in the field. <u>You can learn more about me by taking a quick look below.</u>
 
 <br clear="right"/>
+<br>
 
 Let's start by saying
 ``` C
