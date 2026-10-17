@@ -4,7 +4,7 @@
 <h1 align="center">hey there 🐾</h1>
 
 <p align="center">
-  <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="README.tr.md">🇹🇷 Türkçe</a>
+  <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="https://github.com/sedanuroz/sedanuroz/blob/main/README.tr.md">🇹🇷 Türkçe</a>
 </p>
 
 <img align="right" height="230" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
