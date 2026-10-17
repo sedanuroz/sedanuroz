@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=170&section=header&text=Seda%20Nur%20%C3%96z&fontColor=ffffff&fontSize=50&fontAlignY=35"/>
+  <img height="160" src="img/cat-wave.svg" alt="waving cat"/>
+  <img width="20"/>
+  <img height="160" src="img/s.gif" alt="gif"/>
 </div>
 <h1 align="center">merhaba 🐾</h1>
 
@@ -7,7 +9,7 @@
   <a href="README.md">🇬🇧 English</a> &nbsp;|&nbsp; <b>🇹🇷 Türkçe</b>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=Hakk%C4%B1mda" alt="Typing SVG"/><img align="right" height="75" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=Hakk%C4%B1mda" alt="Typing SVG"/><img align="right" height="90" src="img/panda-bamboo.svg" alt="panda eating bamboo"/>
 
 > [!IMPORTANT]
 > Merhaba, ben Seda Nur Öz.<br>
