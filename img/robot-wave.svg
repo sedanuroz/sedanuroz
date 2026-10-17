@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <style>
+    .arm { transform-origin: 140px 120px; animation: wave 1.1s ease-in-out infinite; }
+    .bob { animation: bob 2.4s ease-in-out infinite; }
+    .light { animation: glow 1.2s ease-in-out infinite; }
+    .eyes { transform-origin: 100px 78px; animation: blink 3.5s infinite; }
+    @keyframes wave { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(30deg); } }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    @keyframes glow { 0%,100% { fill: #FFD36E; } 50% { fill: #FF8FB8; } }
+    @keyframes blink { 0%,90%,100% { transform: scaleY(1); } 94% { transform: scaleY(0.1); } }
+  </style>
+  <g class="bob" stroke="#3B2560" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- antenna -->
+    <line x1="100" y1="40" x2="100" y2="22"/>
+    <circle class="light" cx="100" cy="18" r="7" fill="#FFD36E"/>
+    <!-- head: rounded dome -->
+    <rect x="58" y="40" width="84" height="66" rx="33" fill="#C9B6F2"/>
+    <!-- face screen -->
+    <rect x="70" y="56" width="60" height="38" rx="16" fill="#2A1D45"/>
+    <g class="eyes">
+      <path d="M84 76 Q88 68 92 76" fill="none" stroke="#7CF5D4" stroke-width="4"/>
+      <path d="M108 76 Q112 68 116 76" fill="none" stroke="#7CF5D4" stroke-width="4"/>
+    </g>
+    <path d="M92 84 Q100 90 108 84" fill="none" stroke="#7CF5D4" stroke-width="3"/>
+    <!-- body: soft capsule -->
+    <rect x="68" y="112" width="64" height="58" rx="26" fill="#9370DB"/>
+    <circle cx="100" cy="138" r="9" fill="#FFD36E"/>
+    <!-- left arm resting -->
+    <path d="M70 124 Q52 140 58 158" fill="none" stroke-width="10"/>
+    <path d="M70 124 Q52 140 58 158" fill="none" stroke="#C9B6F2" stroke-width="4"/>
+    <!-- hover base instead of legs -->
+    <ellipse cx="100" cy="180" rx="24" ry="6" fill="#C9B6F2"/>
+  </g>
+  <ellipse cx="100" cy="194" rx="28" ry="4" fill="#9370DB" opacity="0.25"/>
+  <!-- waving arm -->
+  <g class="arm" stroke="#3B2560" stroke-width="4" stroke-linecap="round">
+    <path d="M130 124 L152 92" stroke-width="10"/>
+    <path d="M130 124 L152 92" stroke="#C9B6F2" stroke-width="4"/>
+    <circle cx="155" cy="86" r="8" fill="#C9B6F2"/>
+  </g>
+</svg>

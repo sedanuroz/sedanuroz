@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <style>
+    .paw { transform-origin: 62px 118px; animation: wave 1.2s ease-in-out infinite; }
+    .tail { transform-origin: 140px 165px; animation: sway 2s ease-in-out infinite; }
+    .blink { transform-origin: 100px 88px; animation: blink 4s infinite; }
+    @keyframes wave { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(-35deg); } }
+    @keyframes sway { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(12deg); } }
+    @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+  </style>
+  <g stroke="#5B3A8C" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- tail -->
+    <path class="tail" d="M140 165 C175 160 180 120 160 110" fill="none" stroke-width="12"/>
+    <path class="tail" d="M140 165 C175 160 180 120 160 110" fill="none" stroke="#F4E9FF" stroke-width="5"/>
+    <!-- body -->
+    <ellipse cx="100" cy="150" rx="45" ry="38" fill="#F4E9FF"/>
+    <ellipse cx="100" cy="158" rx="22" ry="20" fill="#FFFFFF" stroke="none"/>
+    <!-- feet -->
+    <ellipse cx="80" cy="186" rx="13" ry="8" fill="#F4E9FF"/>
+    <ellipse cx="120" cy="186" rx="13" ry="8" fill="#F4E9FF"/>
+    <!-- right arm resting -->
+    <ellipse cx="132" cy="150" rx="10" ry="16" fill="#F4E9FF"/>
+    <!-- ears -->
+    <path d="M58 70 L62 28 L92 54 Z" fill="#F4E9FF"/>
+    <path d="M142 70 L138 28 L108 54 Z" fill="#F4E9FF"/>
+    <path d="M65 58 L67 38 L82 52 Z" fill="#E7B8F0" stroke="none"/>
+    <path d="M135 58 L133 38 L118 52 Z" fill="#E7B8F0" stroke="none"/>
+    <!-- head -->
+    <ellipse cx="100" cy="85" rx="48" ry="40" fill="#F4E9FF"/>
+  </g>
+  <!-- face -->
+  <g class="blink">
+    <ellipse cx="82" cy="85" rx="6" ry="8" fill="#3B2560"/>
+    <ellipse cx="118" cy="85" rx="6" ry="8" fill="#3B2560"/>
+    <circle cx="84" cy="82" r="2" fill="#fff"/>
+    <circle cx="120" cy="82" r="2" fill="#fff"/>
+  </g>
+  <ellipse cx="70" cy="100" rx="8" ry="5" fill="#F7A8C8" opacity="0.8"/>
+  <ellipse cx="130" cy="100" rx="8" ry="5" fill="#F7A8C8" opacity="0.8"/>
+  <path d="M96 97 L104 97 L100 102 Z" fill="#F08AB4"/>
+  <path d="M100 102 Q95 109 90 105 M100 102 Q105 109 110 105" fill="none" stroke="#5B3A8C" stroke-width="3" stroke-linecap="round"/>
+  <!-- waving paw -->
+  <g class="paw" stroke="#5B3A8C" stroke-width="4" stroke-linejoin="round">
+    <path d="M62 118 L48 82" stroke-width="22" stroke-linecap="round"/>
+    <path d="M62 118 L48 82" stroke="#F4E9FF" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="47" cy="78" r="5" fill="#F7A8C8" stroke="none"/>
+  </g>
+</svg>
