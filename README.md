@@ -1,7 +1,5 @@
 <div align="center">
-  <img height="160" src="img/cat-wave.svg" alt="waving cat"/>
-  <img width="20"/>
-  <img height="160" src="img/s.gif" alt="gif"/>
+  <img height="200" src="img/s.gif" alt="gif"/>
 </div>
 <h1 align="center">hey there 🐾</h1>
 
