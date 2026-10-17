@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <style>
+    .munch { transform-origin: 125px 150px; animation: munch 0.8s ease-in-out infinite; }
+    .chew { transform-origin: 100px 104px; animation: chew 0.4s ease-in-out infinite; }
+    .eyes { transform-origin: 100px 84px; animation: blink 4s infinite; }
+    .leaf { transform-origin: 134px 136px; animation: sway 1.6s ease-in-out infinite; }
+    @keyframes munch { 0%,100% { transform: translate(0,0) rotate(0deg); } 50% { transform: translate(-3px,-4px) rotate(-4deg); } }
+    @keyframes chew { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(0.4); } }
+    @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+    @keyframes sway { 0%,100% { transform: rotate(-6deg); } 50% { transform: rotate(8deg); } }
+  </style>
+  <ellipse cx="100" cy="194" rx="50" ry="5" fill="#2E2E3A" opacity="0.15"/>
+  <g stroke="#2E2E3A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- feet -->
+    <ellipse cx="70" cy="182" rx="18" ry="12" fill="#3A3A46"/>
+    <ellipse cx="130" cy="182" rx="18" ry="12" fill="#3A3A46"/>
+    <ellipse cx="70" cy="183" rx="8" ry="5" fill="#F7B6C8" stroke="none"/>
+    <ellipse cx="130" cy="183" rx="8" ry="5" fill="#F7B6C8" stroke="none"/>
+    <!-- body -->
+    <ellipse cx="100" cy="150" rx="48" ry="38" fill="#FFFFFF"/>
+    <!-- ears -->
+    <circle cx="60" cy="50" r="16" fill="#3A3A46"/>
+    <circle cx="140" cy="50" r="16" fill="#3A3A46"/>
+    <!-- head -->
+    <ellipse cx="100" cy="86" rx="50" ry="42" fill="#FFFFFF"/>
+    <!-- eye patches -->
+    <ellipse cx="80" cy="84" rx="14" ry="17" fill="#3A3A46" stroke="none" transform="rotate(25 80 84)"/>
+    <ellipse cx="120" cy="84" rx="14" ry="17" fill="#3A3A46" stroke="none" transform="rotate(-25 120 84)"/>
+  </g>
+  <g class="eyes">
+    <circle cx="82" cy="84" r="6" fill="#fff"/>
+    <circle cx="118" cy="84" r="6" fill="#fff"/>
+    <circle cx="83" cy="85" r="3.5" fill="#2E2E3A"/>
+    <circle cx="117" cy="85" r="3.5" fill="#2E2E3A"/>
+  </g>
+  <ellipse cx="66" cy="102" rx="8" ry="5" fill="#F7A8C0" opacity="0.85"/>
+  <ellipse cx="134" cy="102" rx="8" ry="5" fill="#F7A8C0" opacity="0.85"/>
+  <ellipse cx="100" cy="98" rx="6" ry="4" fill="#2E2E3A"/>
+  <ellipse class="chew" cx="100" cy="107" rx="6" ry="4" fill="#E86A86" stroke="#2E2E3A" stroke-width="3"/>
+  <!-- bamboo + paws (munching) -->
+  <g class="munch">
+    <g stroke="#3F7A3A" stroke-width="3.5" stroke-linecap="round">
+      <rect x="117" y="102" width="13" height="74" rx="5" fill="#8FD07E" transform="rotate(-28 123 139)"/>
+      <line x1="114" y1="122" x2="127" y2="128"/>
+      <line x1="126" y1="148" x2="139" y2="154"/>
+    </g>
+    <g class="leaf" stroke="#3F7A3A" stroke-width="3" stroke-linejoin="round">
+      <path d="M134 136 Q156 122 174 128 Q156 144 134 136 Z" fill="#A6E08F"/>
+      <path d="M134 136 Q148 112 166 108 Q158 132 134 136 Z" fill="#7CC36E"/>
+    </g>
+    <g stroke="#2E2E3A" stroke-width="4">
+      <ellipse cx="112" cy="132" rx="14" ry="12" fill="#3A3A46"/>
+      <ellipse cx="134" cy="158" rx="14" ry="12" fill="#3A3A46"/>
+    </g>
+  </g>
+</svg>
