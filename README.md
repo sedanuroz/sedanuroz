@@ -117,7 +117,7 @@ Let's start by saying
 
 </td>
 <td width="35%" align="right" valign="middle">
-<img height="200" src="img/contact.gif" alt="contact"/>
+<img height="200" src="img/contact.gif?v=2" alt="contact"/>
 </td>
 </tr>
 </table>
