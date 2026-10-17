@@ -1,47 +1,47 @@
 <div align="center">
   <img height="500" src="img/minions%20GIF.gif" alt="gif"/>
 </div>
-<h1 align="center">hey there 🐾</h1>
+<h1 align="center">merhaba 🐾</h1>
 
 <p align="center">
-  <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="README.tr.md">🇹🇷 Türkçe</a>
+  <a href="https://github.com/sedanuroz">🇬🇧 English</a> &nbsp;|&nbsp; <b>🇹🇷 Türkçe</b>
 </p>
 
 <img align="right" height="230" src="img/Happy%20James%20GIF%20by%20Minions.gif" alt="minion"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=435&height=60&lines=About+Me" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=435&height=60&lines=Hakk%C4%B1mda" alt="Typing SVG"/>
 
-<b>Hello, my name is Seda Nur Öz.</b><br><br>
-I am a Software Engineer, graduated from Adana Alparslan Türkeş Science and Technology University (2021–2026), focused on autonomous UAV systems, computer vision, embedded systems and AI-powered applications.<br><br>
-As a member of the GİRİFT UAV Team, I reached the finals of both SUAS 2026 and TEKNOFEST 2026, where our team received the Most Original Software Award.<br><br>
-I keep my knowledge up to date, research new technologies and learn from experts in the field. <u>You can learn more about me by taking a quick look below.</u>
+<b>Merhaba, ben Seda Nur Öz.</b><br><br>
+Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Yazılım Mühendisliği bölümünden (2021–2026) mezun bir yazılım mühendisiyim. Otonom İHA sistemleri, görüntü işleme, gömülü sistemler ve yapay zekâ destekli uygulamalar üzerine çalışıyorum.<br><br>
+GİRİFT İHA Takımı'nda SUAS 2026 ve TEKNOFEST 2026 yarışmalarında finale kaldık; TEKNOFEST'te takımımız En Özgün Yazılım Ödülü'nü aldı.<br><br>
+Bilgimi güncel tutmaya, yeni teknolojileri araştırmaya ve alanında uzman kişilerin deneyimlerinden faydalanmaya önem veriyorum. <u>Aşağıya kısaca göz atarak beni daha yakından tanıyabilirsiniz.</u>
 
 <br clear="right"/>
 <br>
 
-Let's start by saying
+Şöyle başlayalım
 ``` C
   printf("Hello World!\n");
 ```
 
 <img src="img/divider.svg" width="100%" height="6" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Skills" alt="Skills"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Yetkinlikler" alt="Yetkinlikler"/>
 
-> 🛈 The skills I have acquired since my first step in software engineering, and keep developing due to its dynamic nature.
+> 🛈 Yazılım mühendisliğinde ilk adımımı attığımdan beri edindiğim ve alanın dinamik yapısı gereği sürekli geliştirdiğim yetkinlikler.
 <br>
 
-| Skills | Details | Skills | Details |
+| Yetkinlik | Detay | Yetkinlik | Detay |
 | --- | --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="25"/> | Built a real-time object detection system for the SUAS 2026 autonomous UAV with YOLOv8 + TensorRT on NVIDIA Jetson, an automated NodeODM mapping pipeline, and FastAPI backends. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="25"/> | Developed the C++17/MAVSDK telemetry backend and Qt 6 desktop interface of P.A.R.S., a multi-UAV ground control station validated in ArduPilot-Gazebo simulation.
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="25"/> | Built mobile interfaces for several projects: a nutrition chatbot with calorie tracking and barcode scanning, a campus bike-sharing admin app, and a social music discovery app. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="25"/> | Implemented the business logic of my Flutter apps in Dart and handled asynchronous communication with backend services.
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="25"/> | Worked on embedded software with Arduino and STM32 during my R&D internship, and built a console-based billing app with file I/O. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="25"/> | Built the business logic and data models of a web application using C# and object-oriented programming.
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="25"/> | Used ASP.NET Core to build dynamic web pages, handle HTTP requests and set up web application architecture. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="25"/> | Used Java to deepen my knowledge of algorithms and data structures through small console projects.
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="25"/> | Added interactivity, DOM manipulation and form validation to websites, including the corporate site of Miza Medikal. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="25"/> | Built semantic, standards-compliant page structures, such as mizamedikal.com, developed from scratch.
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="25"/> | Styled pages and designed layouts with modern CSS3 (Flexbox, Grid). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="25"/> | Used Bootstrap's grid system and components to build responsive designs quickly.
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="25"/> | SUAS 2026 otonom İHA'sı için NVIDIA Jetson üzerinde YOLOv8 + TensorRT ile gerçek zamanlı hedef tespiti, NodeODM ile otomatik haritalama pipeline'ı ve FastAPI backend'leri geliştirdim. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="25"/> | ArduPilot-Gazebo simülasyonunda doğrulanan çoklu İHA yer kontrol yazılımı P.A.R.S.'ın C++17/MAVSDK telemetri backend'ini ve Qt 6 masaüstü arayüzünü geliştirdim.
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="25"/> | Kalori takibi ve barkod taramalı beslenme chatbotu, kampüs bisiklet yönetim paneli ve sosyal müzik keşif uygulaması gibi projelerin mobil arayüzlerini geliştirdim. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="25"/> | Flutter uygulamalarımın iş mantığını Dart ile kurdum, backend servisleriyle asenkron veri iletişimini yönettim.
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="25"/> | Ar-Ge stajımda Arduino ve STM32 üzerinde gömülü yazılım geliştirdim; dosya işlemleri içeren konsol tabanlı bir adisyon uygulaması yazdım. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="25"/> | Bir web uygulamasının iş mantığını ve veri modellerini C# ve nesne yönelimli programlama ile oluşturdum.
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="25"/> | ASP.NET Core ile dinamik web sayfaları oluşturdum, HTTP isteklerini yönettim ve web uygulamasının mimarisini kurdum. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="25"/> | Algoritma ve veri yapıları bilgimi derinleştirmek için Java ile küçük konsol projeleri geliştirdim.
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="25"/> | Miza Medikal kurumsal sitesi dahil web projelerinde DOM manipülasyonu ve form doğrulama ile etkileşim ekledim. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="25"/> | Sıfırdan geliştirdiğim mizamedikal.com gibi sitelerin anlamsal (semantic) yapısını HTML5 standartlarına uygun kurdum.
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="25"/> | Sayfaları modern CSS3 (Flexbox, Grid) ile stilize ettim ve yerleşimlerini tasarladım. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="25"/> | Bootstrap'in grid sistemi ve hazır bileşenleriyle hızlıca mobil uyumlu tasarımlar geliştirdim.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,arduino,qt,fastapi,postgres,docker,linux,matlab,git,github&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=opencv,arduino,qt,fastapi,postgres,docker,linux,matlab,git,github&perline=10" alt="teknolojiler" />
 </div>
 <br>
 
@@ -61,53 +61,53 @@ Let's start by saying
 
 <img src="img/divider.svg" width="100%" height="6" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Achievements" alt="Achievements"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Ba%C5%9Far%C4%B1lar" alt="Başarılar"/>
 
-- 🥇 **TEKNOFEST 2026 Swarm UAV Competition** — Finalist & **Most Original Software Award**
-- 🌍 **SUAS 2026 International UAV Competition** — Finalist
+- 🥇 **TEKNOFEST 2026 Sürü İHA Yarışması** — Finalist ve **En Özgün Yazılım Ödülü**
+- 🌍 **SUAS 2026 Uluslararası İHA Yarışması** — Finalist
 
 <p align="center">
-  <img height="180" src="img/achievements.gif" alt="celebration"/>
+  <img height="180" src="img/achievements.gif" alt="kutlama"/>
 </p>
 
 <img src="img/divider.svg" width="100%" height="6" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Experience" alt="Experience"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Deneyim" alt="Deneyim"/>
 
-**R&D Summer Intern** — Mahatron (Mahlo Textile Machinery), Bursa · *Jul – Aug 2025*
-- Embedded software development on Arduino and STM32 microcontrollers
-- Sensor data acquisition and hardware integration
+**Yaz Stajı – Ar-Ge Departmanı** — Mahatron (Mahlo Tekstil Makineleri), Bursa · *Tem – Ağu 2025*
+- Arduino ve STM32 mikrodenetleyicileri üzerinde gömülü yazılım geliştirme
+- Sensör verisi toplama ve donanım entegrasyonu
 
-**Software Team Member** — GİRİFT UAV Team, ATÜ, Adana · *2025 – 2026*
-- Autonomous UAV software & hardware for SUAS 2026 and TEKNOFEST 2026 Swarm UAV
-- Computer vision, embedded system integration and ground control software
+**Yazılım Ekibi Üyesi** — GİRİFT İHA Takımı, ATÜ, Adana · *2025 – 2026*
+- SUAS 2026 ve TEKNOFEST 2026 Sürü İHA için otonom İHA yazılım ve donanım geliştirme
+- Görüntü işleme, gömülü sistem entegrasyonu ve yer kontrol yazılımı
 
 <img src="img/divider.svg" width="100%" height="6" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Projects" alt="Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Projeler" alt="Projeler"/>
 
-| Project | Description | Tech |
+| Proje | Açıklama | Teknolojiler |
 | --- | --- | --- |
-| **SUAS 2026 – Autonomous UAV Mission System** | Fully autonomous UAV: YOLOv8 optimized with TensorRT for real-time detection on Jetson, a payload drop mechanism for detected targets, and an automated NodeODM pipeline producing two maps (precise + merged). | Python, YOLOv8, TensorRT, Jetson, MAVLink, NodeODM, Docker |
-| **TEKNOFEST 2026 Swarm UAV** | Arduino circuit converting S.Bus signals from an HM30 radio into a format Jetson can process and distributing them, so one controller commands three UAVs. | Arduino, S.Bus, Jetson |
-| **P.A.R.S. – Smart UAV Swarm Surveillance** | Multi-UAV ground control software with a C++17/MAVSDK telemetry backend, Qt 6 desktop UI and Flutter mobile app; validated in ArduPilot-Gazebo. | C++17, MAVSDK, Qt 6, Flutter, ArduPilot, Gazebo |
-| **ATUBIS – RFID Smart Campus Bike System** | Smart lock that opens only with registered student RFID cards; FastAPI REST API + PostgreSQL for station, route and usage data; web and Flutter admin panels. | Python, FastAPI, PostgreSQL, Flutter, RFID, IoT |
-| **Nutrition Assistant – AI Chatbot** | Turkish GPT-2 fine-tuned on 83,718 samples, integrated via FastAPI into a Flutter app with calorie tracking and barcode scanning. | Turkish GPT-2, Python, FastAPI, Flutter |
-| **MusicGraph – Social Music Discovery** | Graph-based song recommendations by modeling friendships and listening habits in Neo4j (8,200 nodes + relationships). | Neo4j, Python, FastAPI, Flutter |
-| **Miza Medikal – Corporate Website** | Corporate website built from scratch for a medical aesthetics company — [mizamedikal.com](https://mizamedikal.com) | HTML, CSS, JavaScript |
+| **SUAS 2026 – Otonom İHA Görev Sistemi** | Tam otonom İHA: Jetson üzerinde TensorRT ile optimize edilmiş YOLOv8 ile gerçek zamanlı hedef tespiti, tespit edilen hedeflere malzeme bırakma mekanizması ve iki harita (kesin + birleşik) üreten NodeODM otomatik haritalama pipeline'ı. | Python, YOLOv8, TensorRT, Jetson, MAVLink, NodeODM, Docker |
+| **TEKNOFEST 2026 Sürü İHA** | HM30 telsizinden gelen S.Bus sinyalini Jetson'un işleyebileceği formata çevirip dağıtan Arduino devresi; tek kumandayla üç İHA yönetimi. | Arduino, S.Bus, Jetson |
+| **P.A.R.S. – İHA Sürüsü Akıllı Gözetleme Sistemi** | C++17/MAVSDK telemetri backend'i, Qt 6 masaüstü arayüzü ve Flutter mobil uygulamasıyla çoklu İHA takibi yapan yer kontrol yazılımı; ArduPilot-Gazebo'da doğrulandı. | C++17, MAVSDK, Qt 6, Flutter, ArduPilot, Gazebo |
+| **ATUBIS – RFID Tabanlı Akıllı Kampüs Bisiklet Sistemi** | Yalnızca kayıtlı öğrenci kartlarıyla açılan akıllı kilit; durak, rota ve kullanım verileri için FastAPI REST API + PostgreSQL; web ve Flutter yönetim panelleri. | Python, FastAPI, PostgreSQL, Flutter, RFID, IoT |
+| **Beslenme Asistanı – Yapay Zekâ Chatbotu** | 83.718 örnekle fine-tune edilen Türkçe GPT-2 modeli; FastAPI üzerinden kalori takibi ve barkod tarama içeren Flutter uygulamasına entegre edildi. | Turkish GPT-2, Python, FastAPI, Flutter |
+| **MusicGraph – Sosyal Müzik Keşif Uygulaması** | Arkadaşlık ve dinleme alışkanlıklarını Neo4j ile modelleyen graf tabanlı şarkı önerisi (8.200 node + ilişki). | Neo4j, Python, FastAPI, Flutter |
+| **Miza Medikal – Kurumsal Web Sitesi** | Medikal estetik firması için sıfırdan geliştirilen kurumsal site — [mizamedikal.com](https://mizamedikal.com) | HTML, CSS, JavaScript |
 
 <img src="img/divider.svg" width="100%" height="6" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Contact" alt="Contact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=%C4%B0leti%C5%9Fim" alt="İletişim"/>
 
-<img align="right" height="200" src="img/contact.gif?v=2" alt="contact"/>
+<img align="right" height="200" src="img/contact.gif?v=2" alt="iletişim"/>
 
 <a href="https://www.linkedin.com/in/sedanuroz" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.instagram.com/sedanur_oz_/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a> 
 <a href="mailto:sseedanuroz@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a><br><br>
-📌 You can follow me on LinkedIn and review my academic career.<br><br>
-📌 You can follow me on Instagram and communicate with me more quickly. <br><br>
-📌 You can contact me via Gmail for support, sponsorship, advertising, collaboration or official business.
+📌 LinkedIn'den beni takip edip akademik kariyerimi inceleyebilirsiniz.<br><br>
+📌 Instagram'dan beni takip edip benimle daha hızlı iletişim kurabilirsiniz.<br><br>
+📌 Destek, sponsorluk, reklam, iş birliği veya resmi işler için Gmail üzerinden ulaşabilirsiniz.
 
 <br clear="right"/>
 
