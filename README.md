@@ -28,9 +28,7 @@ Let's start by saying
   printf("Hello World!\n");
 ```
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=Skills" alt="Skills"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&repeat=false&width=300&height=46&lines=Skills" alt="Skills"/>
 
 > 🛈 The skills I have acquired since my first step in software engineering, and keep developing due to its dynamic nature.
 <br>
@@ -62,16 +60,13 @@ Let's start by saying
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=Achievements" alt="Achievements"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&repeat=false&width=300&height=46&lines=Achievements" alt="Achievements"/>
 
 - 🥇 **TEKNOFEST 2026 Swarm UAV Competition** — Finalist & **Most Original Software Award**
 - 🌍 **SUAS 2026 International UAV Competition** — Finalist
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=Experience" alt="Experience"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&repeat=false&width=300&height=46&lines=Experience" alt="Experience"/>
 
 **R&D Summer Intern** — Mahatron (Mahlo Textile Machinery), Bursa · *Jul – Aug 2025*
 - Embedded software development on Arduino and STM32 microcontrollers
@@ -81,9 +76,7 @@ Let's start by saying
 - Autonomous UAV software & hardware for SUAS 2026 and TEKNOFEST 2026 Swarm UAV
 - Computer vision, embedded system integration and ground control software
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=Projects" alt="Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&repeat=false&width=300&height=46&lines=Projects" alt="Projects"/>
 
 | Project | Description | Tech |
 | --- | --- | --- |
@@ -97,7 +90,7 @@ Let's start by saying
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=1&pause=1&color=9370DB&repeat=false&width=435&height=70&lines=Contact" alt="Contact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&repeat=false&width=300&height=46&lines=Contact" alt="Contact"/>
 
 <a href="https://www.linkedin.com/in/sedanuroz" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.instagram.com/sedanur_oz_/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a> 
