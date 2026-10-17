@@ -28,7 +28,7 @@ Let's start by saying
   printf("Hello World!\n");
 ```
 
-<br>
+<img src="img/divider.svg" width="100%" height="6" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Skills" alt="Skills"/>
 
@@ -63,14 +63,14 @@ Let's start by saying
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-<br>
+<img src="img/divider.svg" width="100%" height="6" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Achievements" alt="Achievements"/>
 
 - 🥇 **TEKNOFEST 2026 Swarm UAV Competition** — Finalist & **Most Original Software Award**
 - 🌍 **SUAS 2026 International UAV Competition** — Finalist
 
-<br>
+<img src="img/divider.svg" width="100%" height="6" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Experience" alt="Experience"/>
 
@@ -82,7 +82,7 @@ Let's start by saying
 - Autonomous UAV software & hardware for SUAS 2026 and TEKNOFEST 2026 Swarm UAV
 - Computer vision, embedded system integration and ground control software
 
-<br>
+<img src="img/divider.svg" width="100%" height="6" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Projects" alt="Projects"/>
 
@@ -96,7 +96,7 @@ Let's start by saying
 | **MusicGraph – Social Music Discovery** | Graph-based song recommendations by modeling friendships and listening habits in Neo4j (8,200 nodes + relationships). | Neo4j, Python, FastAPI, Flutter |
 | **Miza Medikal – Corporate Website** | Corporate website built from scratch for a medical aesthetics company — [mizamedikal.com](https://mizamedikal.com) | HTML, CSS, JavaScript |
 
-<br>
+<img src="img/divider.svg" width="100%" height="6" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Contact" alt="Contact"/>
 
@@ -120,5 +120,7 @@ Let's start by saying
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sedanuroz/sedanuroz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sedanuroz/sedanuroz/output/pacman-contribution-graph.svg">
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7CC8F5,50:F7A8C8,100:9370DB&height=120&section=footer"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sedanuroz.sedanuroz&"  />
