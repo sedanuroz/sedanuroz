@@ -70,6 +70,10 @@ Let's start by saying
 - 🥇 **TEKNOFEST 2026 Swarm UAV Competition** — Finalist & **Most Original Software Award**
 - 🌍 **SUAS 2026 International UAV Competition** — Finalist
 
+<p align="center">
+  <img height="180" src="img/achievements.gif" alt="celebration"/>
+</p>
+
 <img src="img/divider.svg" width="100%" height="6" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=1&pause=1&color=9370DB&vCenter=true&repeat=false&width=300&height=42&lines=Experience" alt="Experience"/>
